@@ -33,3 +33,5 @@ npm start
 ## Licença
 
 Este projeto está licenciado sob a Creative Commons Attribution 4.0 International.
+![scream](https://github.com/user-attachments/assets/5af673ed-f637-4ab9-a585-6e5b530bcaf1)
+
